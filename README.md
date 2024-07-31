@@ -7,7 +7,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/rinnystab/">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Back-End%20Software%20Developer;5%2B%20years%20of%20development%20experience;Likes%20to%20learn%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Back-End%20Software%20Developer;5%2B%20years%20of%20development%20experience;Likes%20to%20learn%20new%20things&font=Fira%20Code&center=true&width=450&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
